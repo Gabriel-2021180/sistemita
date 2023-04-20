@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "este es un proyecto de la universidad,para el bufete de abogados azurduy y asociados",
   "main": "index.js",
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
